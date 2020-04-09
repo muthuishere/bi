@@ -1,3 +1,11 @@
+Rest Api document
+
+
+https://help.sap.com/doc/220244879d104f2e8e8b37e0fa0bdd2d/4.2.3/en-US/sbo42sp3_bip_rest_ws_en.pdf
+
+
+
+
 
 Step 1 : Get logon token
 
