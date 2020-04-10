@@ -1,3 +1,12 @@
+
+{
+"userName":"username",
+"password":"password",
+"auth":"secEnterprise"
+
+}
+
+
 Rest Api document
 
 
