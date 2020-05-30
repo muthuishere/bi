@@ -1,6 +1,13 @@
 CharSequence []input ={"Autotester"}
 ; TestDriver org.openqa.selenium.support.ui.Select
 
+
+  ((JavascriptExecutor) TestDriver).executeScript(    
+        "alert('hi')"
+        );
+
+
 WebElement loginLink = TestDriver.findElement(By.linkText("IBS Business Intelligence v4"));
 String href = loginLink.getAttribute("href");
-TestDriver.get(href);
+TestDriver.navigate().to(href);
+
