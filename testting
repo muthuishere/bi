@@ -5,3 +5,8 @@ WebElement login =
 TestDriver.findElement(By.name("username"));
 login.sendKeys(input);
 
+
+
+
+<a href="/BLP/NavModelServlet/Interop?appid=APPL00000076&amp;channelName=BO_LP_SSO" target="_blank">IBS Business Intelligence v4</a>
+
