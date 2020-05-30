@@ -1,0 +1,9 @@
+Action	Param1	Param2	Param3	Param4
+ExecuteCustomCode	CharSequence []input =
+{"Autotester"}
+; TestDriver org.openqa.selenium.support.ui.Select
+WebElement login =
+TestDriver.findElement(By.name("username"));
+login.sendKeys(input);
+	TestDriver		
+ExecuteCustomCode	C:\test1.txt	TestDriver		y
